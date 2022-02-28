@@ -7,6 +7,7 @@ console.log("Dave, man..."); //And, again here...
 // Examples of strings with single or double quotes inside of the string
 console.log('Captain America says, "Remember to drink your Ovaltine."');
 
+
 // Concatenation (adding two strongs together using a + sign)
 console.log("Commonwealth" + "Coders");
 console.log("Commonwealth "+"Coders"); //adding a space
