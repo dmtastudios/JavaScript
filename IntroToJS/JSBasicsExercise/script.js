@@ -39,4 +39,3 @@ let u = m + c;
 console.log(u); // 29
 // 5.777
 let there = be + rock
-// 
