@@ -10,7 +10,7 @@ let num = 20;
 // let num = 15;
 
 // 4
-num = num +7;
+num = num + 7;
 
 // 5
 num--;
@@ -25,7 +25,7 @@ let blank;
 console.log(blank); // undefined
 
 // 9
-blank =  null
+blank = null
 
 // BONUS
 // 1
@@ -34,7 +34,7 @@ const quarter = 0.25, dime = 0.10, nickel = 0.5, penny = 0.01;
 // const [quarter, dime, nickel, penny] = [0.25, 0.10, 0.5, 0.01]
 
 // 2
-console.log(quarter , dime , nickel , penny);
+console.log(quarter, dime, nickel, penny);
 
 // 3
 let letters = "qwertyuiop";
