@@ -57,19 +57,18 @@ if (userInput == 1) {
     if (userInput == 1) {
         userInput = prompt(q3);
     } else {
-
+        alert(gameOver1);
     } if (userInput == 1) {
         userInput = prompt(q4);
+    } else {
+        alert(gameOver2);
     } if (userInput == 2) {
         userInput = prompt(q5);
+    } else {
+        alert(gameOver3);
     }
 
 } else {
     alert = prompt(gameOver1)
 }
-
-// let userInput = prompt(q2);
-// let userInput = prompt(q3);
-// let userInput = prompt(q4);
-// let userInput = prompt(q5);
 
