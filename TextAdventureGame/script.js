@@ -46,3 +46,30 @@ ${enter}`;
 const gameOver5 = `You looked at the trap and the light BLINDED YOU! ${gameOver}`;
 
 const win = `The ghost trap sucked Slimer in and closed. CONGRATULATIONS! YOU CAUGHT SLIMER!!!`;
+
+alert(start);
+
+let userInput = prompt(q1);
+
+if (userInput == 1) {
+    userInput = prompt(q2);
+
+    if (userInput == 1) {
+        userInput = prompt(q3);
+    } else {
+
+    } if (userInput == 1) {
+        userInput = prompt(q4);
+    } if (userInput == 2) {
+        userInput = prompt(q5);
+    }
+
+} else {
+    alert = prompt(gameOver1)
+}
+
+// let userInput = prompt(q2);
+// let userInput = prompt(q3);
+// let userInput = prompt(q4);
+// let userInput = prompt(q5);
+
